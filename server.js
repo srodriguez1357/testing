@@ -1,3 +1,4 @@
 jwt = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyLCJwYXNzd29yZCI6ImFkaGR1ZW5zZiIsImFkbWluX2FjY2VzcyI6ZmFsc2V9.cikRAPMY7Bqx5jnQF2hKsvOq7kmatF_YsmUbX6Qz-JE"
 aws_token = "arn:aws:iam::123456789012:mfa/user"
+amazontoken = "AKIAYVP4CIPPERUVIFXG"
 password= "124hsy3731"
