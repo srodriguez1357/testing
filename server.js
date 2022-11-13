@@ -9,6 +9,19 @@ const jwt = require('jsonwebtoken');
   
 const app = express();
   
+
+   function user1() {
+  var user = document.getElementById('uname').value
+  var contrasena = document.getElementById('psw').value
+  if (user == "M@lwy" && contrasena == "Ciud_Dig_10") {
+    alert('Acceso Autorizado')
+    window.location.href = "historia4.html";
+  } 
+  else {
+    alert('Acceso denegado')
+  }
+   }
+
 // Set up Global configuration access
 dotenv.config();
   
